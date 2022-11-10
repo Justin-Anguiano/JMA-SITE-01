@@ -1,0 +1,25 @@
+* {
+    background-color: tan;
+}
+.inc {
+    text-align: center;
+    margin: 5% 5% 2% 2%;     
+    font-size: xx-large;
+    font-style: oblique;
+    border-style: ridge;
+    border-color: black;
+    background-color: aliceblue;
+}
+.internal-link {
+    flex-direction: row;
+    display: flex;
+    justify-content: center;    
+}
+.black {
+    border: 1px solid rgb(12, 4, 4);
+    border-width: 15px;   
+}
+.image-size {
+    width: 100px;
+}
+
